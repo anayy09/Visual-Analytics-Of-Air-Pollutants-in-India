@@ -29,3 +29,8 @@ The dataset includes daily AQI measurements from 2021 to 2023 across Indian stat
 - **Time Series Plots**: For temporal trends.
 - **Parallel Coordinate Plots**: For multi-dimensional analysis.
 - **PCA and t-SNE**: For dimensionality reduction and visualization of high-dimensional data.
+
+## Snapshots
+Below are snapshots of some of the visualizations created as part of this project:
+![Snapshot 1](/images/image1.png)
+![Snapshot 1](/images/image2.png)
